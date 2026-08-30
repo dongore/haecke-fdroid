@@ -1,0 +1,74 @@
+<!doctype html>
+<!-- Die Startseite der F-Droid-Site: eine Seite, die einem Telefon die
+     Paketquelle in die Hand gibt. Fingerabdruck und qr.png stammen aus der
+     einmaligen Einrichtung (fdroid/README.md) und ändern sich nur, wenn je
+     ein neuer Repo-Schlüssel nötig würde. -->
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Häcke-App über F-Droid</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body {
+      font-family: system-ui, sans-serif;
+      max-width: 40rem;
+      margin: 0 auto;
+      padding: 2rem 1.25rem 4rem;
+      line-height: 1.55;
+    }
+    h1 { font-size: 1.6rem; }
+    code {
+      font-size: 0.85em;
+      word-break: break-all;
+      background: rgba(127, 127, 127, 0.15);
+      padding: 0.15em 0.35em;
+      border-radius: 4px;
+    }
+    .karte {
+      border: 1px solid rgba(127, 127, 127, 0.4);
+      border-radius: 8px;
+      padding: 1rem 1.25rem;
+      margin: 1.5rem 0;
+    }
+    .knopf {
+      display: inline-block;
+      padding: 0.6em 1.2em;
+      border-radius: 8px;
+      background: #1a6b3c;
+      color: #fff;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    img.qr { max-width: 14rem; width: 100%; height: auto; }
+  </style>
+</head>
+<body>
+  <h1>Häcke-App über F-Droid installieren</h1>
+  <p>
+    Dies ist die private F-Droid-Paketquelle für die
+    <strong>Häcke-App</strong> – dieselbe App wie im Play Store, direkt vom
+    Entwickler, mit Aktualisierungen über den F-Droid-Client.
+  </p>
+
+  <div class="karte">
+    <p>Auf einem Telefon mit installiertem F-Droid genügt ein Klick:</p>
+    <p><a class="knopf" href="fdroidrepos://fdroid.haeckeinfo.de/repo?fingerprint=8DAB48405B71C8088DCA83E7E18BA3B2D3BA158632EE4C9803ADEEE2DD77549D">Paketquelle hinzufügen</a></p>
+    <p>Oder den QR-Code mit F-Droid scannen:</p>
+    <p><img class="qr" src="qr.png" alt="QR-Code der Paketquelle"></p>
+  </div>
+
+  <h2>Von Hand hinzufügen</h2>
+  <p>In F-Droid unter <em>Einstellungen&nbsp;→ Paketquellen&nbsp;→ +</em>:</p>
+  <p>Adresse:<br><code>https://fdroid.haeckeinfo.de/repo</code></p>
+  <p>Fingerabdruck:<br><code>8DAB48405B71C8088DCA83E7E18BA3B2D3BA158632EE4C9803ADEEE2DD77549D</code></p>
+
+  <h2>Gut zu wissen</h2>
+  <p>
+    Die F-Droid-Ausgabe und die Play-Store-Ausgabe sind unterschiedlich
+    signiert. Ein Wechsel von der einen zur anderen bedeutet deshalb:
+    deinstallieren und neu installieren. Notizen und Favoriten, die in einem
+    Konto liegen, bleiben dabei erhalten.
+  </p>
+</body>
+</html>

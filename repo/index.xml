@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?><fdroid><repo icon="icon.png" name="Häcke-App" pubkey="30820509308202f1a00302010202087cc47119e137b895300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313154c5444455630312e4c414e544543482e4c4f43414c3020170d3236303833303038343631335a180f32303534303131353038343631335a30323110300e060355040b1307462d44726f6964311e301c060355040313154c5444455630312e4c414e544543482e4c4f43414c30820222300d06092a864886f70d01010105000382020f003082020a0282020100a592a9981559551c66ef022f718098f188030df717e710b93d17c3d51216afafb98e99f830fe9400949435a1cefb59843d819b6c00610f6f3d62940fd4071523018e5b1bb49dc38bf7919014be536902444a4c3aa218ddcf1889e6ac3ca81cc806d690e7350100c8133c4687f6cef017c783d5b2272b23eecad44cc5fe6361cb2aa29d665f1124dfe75831677b936a48de9305882a7caff3f6c8b7f33bf6896adf25d67565251ac535b86350f08f5c01d818514efe816edb508750d8edf9e22b364b9b96f92fe1970b9e9e4fadef93bcaa31d79cffed60f92a1d1d73247bee15b20ab04269c04cf3c3ed915305fd1bea12a8d3697658bd4ea97ed75e5e383dbd76a09866798afeee08521cd003e02bc05fc1c364a5444be595629640d82874d396c5c1e79fe6944ea52a1b109b4e5188395e5ac652c6fac3dc2ab6386cbe08d2a19457b6bf6c86fa94a96549623d3056794bedf7652d1f49ceaaef96bd9551052e4ad6fd15ef1d181856fe64613833dc39e15ef7710e9d27177b8adcaeee319788e7eb268484df6e71f993cf709d81212897bcf570ec5364321f24ac50470e3875101be3c62ccdba0111c64bebda2d9bdd020461a7e245c090c0db8c9eb2509b030cd77b513ef826012f7751404d435936f34674b3758ee9850870efb800e9e51ba08ca6ae2d8bc57228b73e69ce4a413b900023fc0cec69a2819b8d4a45bd890203010001a321301f301d0603551d0e041604145a0e5b7465ed07145e0f1a22f08c16df4f63f9f1300d06092a864886f70d01010b05000382020100819856fd2d91e2ce382f686d221e408b1ff592f44fc3ddcf1a9cbfb8868efdb658f70b9036b7af6d781b951e8709a9890bf62b97a273daf5787fbb75869207a1e7ea05d0e149395d3a443dcc445091eacb69b89a1960acd2065c9d8212627ce3f2d0848812b8cd7873ed09a0ecbbbb0bf2c6670957d67b5c9f650504a36b81023f9dc69de3fa2d9482b634781eafe479edb771572743ff03e99b8fe66d952c3ff4d8a310f30ef4fdeec12e020b3c2fb1c3aedaaac04efb96fac7d8907753714e31ee1e327ade71fcea1bf44ad87a893fc10710d93588429b439f68a4976a545e1a55a07134d2032512ca45a28ae5f11d203f8b62f55600467bd2dc17d8d51d31f7bd443b794332388f5f502d15ae2de4c171bd8e08235ee7b91744cc94b21dae16879adb75b46954e60fd974dafade0fdec629534cf4e29f497511e29830b98386feff22270fab6b3cf808658d3ea36117f454be49188fc48653b23bd498657c8002d24a68a3dab5912e5a3e0897bf8176d06fbcef55ecf8b1a1511fff0027e383fbcebd556db5b211664679e969e9221d2949286b5882228d4ab23e485d384661c0ec161b8969dc054c01732ca4bfcfe7ecacac33d692cc67174626c113f0859c58adb0236731a6c384033952ed1825807228c4243960073ca9bede4744eb63f466ef7bf959d9f7141939ad052eb206d5e1654bb60c9037a8d5ceb360c3e5d7" timestamp="1788386225" url="https://fdroid.haeckeinfo.de/repo" version="20002"><description>Die Häcke-App, direkt vom Entwickler. Dieselbe App wie im Play Store, installiert und aktualisiert über F-Droid.</description></repo><application id="de.haecke.mil"><id>de.haecke.mil</id><added>2026-08-30</added><lastupdated>2026-09-02</lastupdated><name>Häcke-App</name><summary>Welche Häckerwirtschaft hat heute offen? Mit Karte, Kalender und Öffnungszeiten</summary><desc>Eine Häckerwirtschaft hat nur ein paar Wochen im Jahr geöffnet, oft nur an
+bestimmten Wochentagen, und jede hat ihren eigenen Rhythmus. Die Häcke-App
+beantwortet die Frage, auf die es dann ankommt: Wer hat heute offen?
+
+DER TAG AUF EINEN BLICK
+• Die Tagesleiste zeigt für jeden Tag, wie viele Häcken geöffnet sind
+• Darunter die Liste des gewählten Tages: erst was jetzt offen ist, dann was bald öffnet
+• Zu jeder Häcke die Uhrzeiten und wie lange sie noch offen bleibt – „noch bis 15. August“
+• Wer noch nicht geöffnet hat, zeigt den Countdown: „öffnet in 8 Tagen“
+
+KALENDER
+Im Monatskalender ist markiert, an welchen Tagen überhaupt etwas geöffnet
+ist. Ein Tipp auf einen Tag, und die Liste springt dorthin. Praktisch, wenn
+der Besuch ein paar Wochen im Voraus geplant wird.
+
+KARTE
+Alle Häcken des gewählten Tages auf der Karte, mit Kartenmaterial von
+OpenStreetMap. Von dort und von jeder Häcke aus geht es mit einem Tipp
+weiter zur Route, zum Telefon, zur Website oder zur E-Mail.
+
+JEDE HÄCKE IM DETAIL
+Öffnungszeiten für das ganze Jahr, Ruhetage, Anzahl der Plätze,
+Beschreibung, Fotos und Besonderheiten wie Silvaner, Schäufele oder Blaue
+Zipfel.
+
+ENTFERNUNG, OHNE DASS DER STANDORT DAS GERÄT VERLÄSST
+Wer den Standort freigibt, sieht bei jeder Häcke die Entfernung und bekommt
+die Liste nach Nähe sortiert. Die Position wird nur auf dem Gerät verwendet
+– sie wird nicht übertragen und nicht gespeichert. Ohne Freigabe
+funktioniert alles andere unverändert.
+
+MIT KONTO, WENN GEWÜNSCHT
+Die App ist ohne Anmeldung vollständig nutzbar. Ein Konto – E-Mail und
+Passwort – bringt zwei Dinge dazu:
+• Favoriten: die Häcken, die dich interessieren, mit einem Tipp merken und die Liste darauf beschränken
+• Notizen zu deinen Besuchen, damit im nächsten Jahr noch bekannt ist, was letztes Mal gut war
+
+Das Konto lässt sich in der App unter „Konto“ jederzeit selbst löschen, mit
+allen dazugehörigen Daten.
+
+KEINE WERBUNG, KEIN TRACKING
+Die Häcke-App zeigt keine Werbung, analysiert kein Nutzungsverhalten und
+verfolgt niemanden über Apps hinweg. An Google gehen technische Meldungen
+über Programmstarts und Abstürze, damit Fehler gefunden werden – ohne
+persönliche Daten. Was verarbeitet wird, steht vollständig in der
+Datenschutzerklärung.
+
+AUCH BEKANNT ALS
+Häckerwirtschaft, Häcke, Heckenwirtschaft, Kranzwirtschaft, Rädlewirtschaft,
+Straußwirtschaft, Winzerhof – die Namen wechseln von Ort zu Ort, gemeint ist
+dasselbe: ein Winzer, der für einige Wochen eigenen Wein und eine kleine
+Karte ausschenkt.
+
+Fehlt eine Häcke, oder haben sich Öffnungszeiten geändert? Eine kurze
+E-Mail genügt, dann wird es nachgetragen.</desc><license>Copyright</license><categories>Freizeit</categories><category>Freizeit</category><web></web><source></source><tracker></tracker><author>Gordon Diefenthal</author><marketversion></marketversion><marketvercode>32</marketvercode><antifeatures>NonFreeDep,NonFreeNet,Tracking</antifeatures><package><version>0.6.0</version><versioncode>32</versioncode><apkname>de.haecke.mil_32.apk</apkname><hash type="sha256">6b208489c57d302e8397facf81ee3e1a4d35003e3b2fbd610b0f8dbf46011ed7</hash><size>65815443</size><sdkver>24</sdkver><targetSdkVersion>36</targetSdkVersion><added>2026-09-02</added><sig>6617869f85c1197da6a9db5e72b9abf6</sig><permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,INTERNET,POST_NOTIFICATIONS,USE_BIOMETRIC,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE,com.google.android.providers.gsf.permission.READ_GSERVICES,de.haecke.mil.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions><nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode></package><package><version>0.5.0</version><versioncode>31</versioncode><apkname>de.haecke.mil_31.apk</apkname><hash type="sha256">dd944e20e9ecf4e17c2631b9055acc579be3c07d932a0d1be4bd57301b8810ce</hash><size>64211299</size><sdkver>24</sdkver><targetSdkVersion>36</targetSdkVersion><added>2026-08-30</added><sig>6617869f85c1197da6a9db5e72b9abf6</sig><permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,INTERNET,POST_NOTIFICATIONS,USE_BIOMETRIC,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE,com.google.android.providers.gsf.permission.READ_GSERVICES,de.haecke.mil.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions><nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode></package></application></fdroid>
